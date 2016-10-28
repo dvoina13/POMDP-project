@@ -2,9 +2,7 @@
 
 cells 1 - 3: import libraries, get data etc.
 
-cell 4: compute firing rates for different sizes and orientations of mushrooms and birds. Parameters model a  hill function  
-that determines uncertainty (the more distant sizes and orientations are from the trained ones, the more uncertan the mouse is). 
-Parameters can be initially taken from the accumulator model fits. 
+cell 4: compute firing rates for different sizes and orientations of mushrooms and birds. Parameters model a  hill function  that determines uncertainty (the more distant sizes and orientations are from the trained ones, the more uncertan the mouse is). Parameters can be initially taken from the accumulator model fits. 
 
 cell 5: simple inferences from the data
 
