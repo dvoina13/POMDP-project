@@ -53,4 +53,5 @@ figure (2): distance vs. %trials with velocity  =1, last 10% trials
 
 figure (3): distance to target vs. accuracy
 
+Thisis what we expect.
 
