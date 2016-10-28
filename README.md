@@ -38,7 +38,9 @@ down to gather more evidence.
 I forgot to label the axes for the 3 figures at the end of the cell output here (takes long to run this cell):
 
 figure (1): uncertainty vs. % trials with velocity = 1
+
 figure (2): uncertainty vs. % trials with velocity = 1 in the last 10% of the trials
+
 figure (3): uncertainty vs. accuracy
 
 These results are not what I expected so there is probably something wrong going on in the simulation. Accuracy should 
@@ -48,7 +50,9 @@ cell 11: Second prediction of the model: as distance to target increases, accura
 decreases (as opposed to instances with velocity =2).
 
 figure (1): distance vs. %trials with velocity  =1
+
 figure (2): distance vs. %trials with velocity  =1, last 10% trials
+
 figure (3): distance to target vs. accuracy
 
 
